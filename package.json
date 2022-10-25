@@ -1,0 +1,15 @@
+{
+  "name": "coffee-mechine",
+  "version": "1.0.0",
+  "description": "Coffee Mechine Program",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
